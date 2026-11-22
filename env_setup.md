@@ -16,6 +16,7 @@ Confirmed environment in VM
 Python version: Let's upgrade our project environment
 
 Python 3.8 is old for a new AI development project.
+
 Python 3.11 is recommended for our Mini GPT project. It has broad compatibility with current PyTorch releases.
 We will keep Ubuntu's system Python untouched and install a separate Python version for our project.
 
@@ -26,6 +27,7 @@ We'll use uv, a Python version and package manager. It allows us to install Pyth
 First install prerequisites:
 
 **sudo apt update**
+
 **sudo apt install -y curl ca-certificates build-essential**
 
 <img width="832" height="274" alt="image" src="https://github.com/user-attachments/assets/00101441-a1ce-4046-a118-fb03162abc3e" />
