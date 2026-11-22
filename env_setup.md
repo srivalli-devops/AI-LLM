@@ -1,8 +1,9 @@
 ## Step 1 : 
 Confirmed environment in VM
-|---|---|
+
 | Component | Your environment |
-| Host OS  | Windows 11 |
+|---|---|
+| Host OS | Windows 11 |
 | Virtualization | Oracle VirtualBox |
 | Guest OS | Ubuntu 20.04.6 LTS |
 | Python | 3.8.10 |
