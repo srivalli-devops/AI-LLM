@@ -1,0 +1,12 @@
+Artificial intelligence is changing the world.
+Machine learning helps computers learn from data.
+Deep learning uses neural networks.
+A neural network contains multiple layers.
+Language models learn patterns from text.
+GPT is a generative pretrained transformer.
+Transformers use a mechanism called attention.
+Attention helps models understand relationships.
+Computers process text using numerical tokens.
+A language model predicts the next token.
+Artificial intelligence can generate new text.
+Python is widely used in artificial intelligence.
