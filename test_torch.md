@@ -64,8 +64,7 @@ This script checks your PyTorch environment, creates a basic tensor, and passes 
 
 ============================================================
 
-<img width="762" height="292" alt="image" src="https://github.com/user-attachments/assets/6fec196e-f1a7-42dc-9db2-7d7713ca6c1b" />
-
+<img width="858" height="454" alt="image" src="https://github.com/user-attachments/assets/17fe111c-b6ec-4f11-a61a-18153ec1f82e" />
 
 ============================================================
 
@@ -76,5 +75,12 @@ This script checks your PyTorch environment, creates a basic tensor, and passes 
 In AI and math books, this "multiply-and-add" pattern is called a Dot Product (or Matrix Multiplication when doing multiple rows at once). Every single GPT model—from a tiny Mini GPT to massive AI systems—is built out of millions of these exact multiply-and-add steps stacked together.
 
 <img width="900" height="470" alt="image" src="https://github.com/user-attachments/assets/4b14db83-9fdc-42e7-8e16-60d5df6b8513" />
+
+============================================================
+
+What if the case is torch.nn.Linear(4, 6)
+
+<img width="803" height="444" alt="image" src="https://github.com/user-attachments/assets/9b3a2802-101a-40cf-b9ca-f28428dfc275" />
+
 
 
