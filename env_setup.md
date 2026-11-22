@@ -27,3 +27,5 @@ First install prerequisites:
 sudo apt update
 sudo apt install -y curl ca-certificates build-essential
 
+<img width="832" height="274" alt="image" src="https://github.com/user-attachments/assets/00101441-a1ce-4046-a118-fb03162abc3e" />
+
