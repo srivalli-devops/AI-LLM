@@ -1,4 +1,4 @@
-##Step 1 : 
+## Step 1 : 
 Confirmed environment in VM
 
 Component             Your environment
@@ -11,21 +11,21 @@ CPU cores visible     6
 RAM visible           21 GB
 GPU                   No dedicated GPU
 
-##Step 2:
+## Step 2:
 Python version: Let's upgrade our project environment
 
 Python 3.8 is old for a new AI development project.
 Python 3.11 is recommended for our Mini GPT project. It has broad compatibility with current PyTorch releases.
 We will keep Ubuntu's system Python untouched and install a separate Python version for our project.
 
-##Step 3:
+## Step 3:
 Install Python 3.11 using uv
 
 We'll use uv, a Python version and package manager. It allows us to install Python 3.11 without changing Ubuntu's system Python.
 First install prerequisites:
 
-sudo apt update
-sudo apt install -y curl ca-certificates build-essential
+**sudo apt update**
+**sudo apt install -y curl ca-certificates build-essential**
 
 <img width="832" height="274" alt="image" src="https://github.com/user-attachments/assets/00101441-a1ce-4046-a118-fb03162abc3e" />
 
