@@ -19,3 +19,6 @@ for _ in range(35):
     last_char_logits = logits[:, -1, :]               # Focus on the newest character
     next_id = torch.argmax(last_char_logits, dim=-1, keepdim=True)
     idx = torch.cat([idx, next_id], dim=1)            # Append predicted char
+
+# Make sure this line is all the way to the left (no indentation)!
+print("Generated text:\n", tokenizer.decode(idx[0].tolist()))
