@@ -68,10 +68,6 @@ This script checks your PyTorch environment, creates a basic tensor, and passes 
 
 ============================================================
 
-<img width="1383" height="763" alt="image" src="https://github.com/user-attachments/assets/c04dce95-989f-49b0-bd65-9e919972aae9" />
-
-============================================================
-
 In AI and math books, this "multiply-and-add" pattern is called a Dot Product (or Matrix Multiplication when doing multiple rows at once). Every single GPT model—from a tiny Mini GPT to massive AI systems—is built out of millions of these exact multiply-and-add steps stacked together.
 
 <img width="900" height="470" alt="image" src="https://github.com/user-attachments/assets/4b14db83-9fdc-42e7-8e16-60d5df6b8513" />
