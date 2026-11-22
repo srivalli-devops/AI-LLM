@@ -64,6 +64,12 @@ This script checks your PyTorch environment, creates a basic tensor, and passes 
 
 ============================================================
 
+Output:
+
+<img width="749" height="291" alt="image" src="https://github.com/user-attachments/assets/7877bbc0-10c7-4f0e-87e5-babec8aabf4a" />
+
+============================================================
+
 <img width="858" height="454" alt="image" src="https://github.com/user-attachments/assets/17fe111c-b6ec-4f11-a61a-18153ec1f82e" />
 
 ============================================================
