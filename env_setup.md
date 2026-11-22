@@ -1,15 +1,15 @@
 ## Step 1 : 
 Confirmed environment in VM
 |---|---|
-|Component|             Your environment|
-Host OS               Windows 11
-Virtualization        Oracle VirtualBox
-Guest OS              Ubuntu 20.04.6 LTS
-Python                3.8.10
-CPU                   Intel i7-11800H
-CPU cores visible     6
-RAM visible           21 GB
-GPU                   No dedicated GPU
+| Component | Your environment |
+| Host OS  | Windows 11 |
+| Virtualization | Oracle VirtualBox |
+| Guest OS | Ubuntu 20.04.6 LTS |
+| Python | 3.8.10 |
+| CPU | Intel i7-11800H |
+| CPU cores visible | 6 |
+| RAM visible | 21 GB |
+| GPU | No dedicated GPU |
 
 ## Step 2:
 Python version: Let's upgrade our project environment
