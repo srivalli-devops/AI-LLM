@@ -20,6 +20,12 @@ output = model(x.float())
 
 print("Neural network output:", output)
 
+print("Mini GPT environment is ready!")
+
+print("Weights (2x4 matrix):\n", model.weight)
+
+print("Biases (2 values):\n", model.bias)
+
 ============================================================
 
 This script checks your PyTorch environment, creates a basic tensor, and passes it through a single-layer neural network.
