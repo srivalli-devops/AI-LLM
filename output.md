@@ -6,3 +6,6 @@
 
 <img width="665" height="233" alt="image" src="https://github.com/user-attachments/assets/167eb91f-1dc5-42e1-b14f-04ee3798f199" />
 
+## Data flow
+
+<img width="669" height="905" alt="image" src="https://github.com/user-attachments/assets/d83a4f63-f2e0-48cd-ab08-43260a559d3c" />
