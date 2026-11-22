@@ -1,30 +1,4 @@
-import torch
-
-import platform
-
-print("Python version:", platform.python_version())
-
-print("PyTorch version:", torch.__version__)
-
-print("CUDA available:", torch.cuda.is_available())
-
-x = torch.tensor([10, 20, 30, 40])
-
-print("Original tensor:", x)
-
-print("Multiplied tensor:", x * 2)
-
-model = torch.nn.Linear(4, 2)
-
-output = model(x.float())
-
-print("Neural network output:", output)
-
-print("Mini GPT environment is ready!")
-
-print("Weights (2x4 matrix):\n", model.weight)
-
-print("Biases (2 values):\n", model.bias)
+<img width="488" height="487" alt="image" src="https://github.com/user-attachments/assets/b86de216-1e32-4418-8211-9feb338604f2" />
 
 ============================================================
 
