@@ -1,0 +1,8 @@
+(venv) valli@devops:~/AI/mini-gpt$ python test_torch.py
+Python version: 3.11.18
+PyTorch version: 2.15.0+cpu
+CUDA available: False
+Original tensor: tensor([10, 20, 30, 40])
+Multiplied tensor: tensor([20, 40, 60, 80])
+Neural network output: tensor([19.1583, 10.8991], grad_fn=<UnsafeViewBackward0>)
+Mini GPT environment is ready!
