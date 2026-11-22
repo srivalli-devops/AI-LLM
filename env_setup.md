@@ -32,3 +32,18 @@ First install prerequisites:
 
 <img width="832" height="274" alt="image" src="https://github.com/user-attachments/assets/00101441-a1ce-4046-a118-fb03162abc3e" />
 
+Install uv:
+
+**curl -LsSf https://astral.sh/uv/install.sh | sh**
+
+Load uv into your current terminal:
+
+**source $HOME/.local/bin/env**
+
+Verify:
+
+**uv --version**
+
+<img width="751" height="304" alt="image" src="https://github.com/user-attachments/assets/4ea4a39e-bf58-463b-a66b-eefdb8d03caa" />
+
+
