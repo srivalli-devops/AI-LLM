@@ -38,3 +38,7 @@ Your terminal will show your MiniGPT streaming text and pausing mid-sentence to 
 ## Pictorial view
 
 <img width="1397" height="764" alt="image" src="https://github.com/user-attachments/assets/3cd163b0-ec55-4456-b389-bbf3197dbbbe" />
+
+Whether you use a 2,500-parameter Cat/Dog MiniGPT or a 70-billion-parameter Llama/GPT model, the Agent architecture is identical:
+• The LLM only predicts text tokens.
+• The Python Agent Loop parses that text stream in real time, pauses generation when it sees a trigger pattern ("cat", "dog", or JSON tool calls), executes code on your VM, and resumes.
