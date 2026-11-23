@@ -17,3 +17,14 @@
 ## Data flow
 
 <img width="1303" height="774" alt="image" src="https://github.com/user-attachments/assets/2d898805-57bb-4a5e-bb66-1963877276ea" />
+
+## Observations to note
+
+
+What New Insights You Will See When You Run This
+
+1. In embeddings.py: You will watch the exact math of adding Token Identity + Position 0 to create a single context vector.
+2. In attention.py: You will see the before-and-after effect of the Causal Mask—raw scores in the upper triangle turning into -inf, and Softmax turning those -inf entries into 0.00 while making each row add up to 1.00.
+3. In transformer.py: You will see exactly how many neurons ReLU switches off (zeros out) inside the 16 -> 64 -> 16 expansion layer.
+4. In train.py: You will print lm_head.weight before, its computed gradient, and the updated weight after optimizer.step().
+5. In generate.py: You will see the model's Top 3 candidate letters and confidence percentages at each step as it builds "the cat sleeps...".
