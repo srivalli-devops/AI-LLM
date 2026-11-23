@@ -28,3 +28,14 @@ What New Insights You Will See When You Run This
 3. In transformer.py: You will see exactly how many neurons ReLU switches off (zeros out) inside the 16 -> 64 -> 16 expansion layer.
 4. In train.py: You will print lm_head.weight before, its computed gradient, and the updated weight after optimizer.step().
 5. In generate.py: You will see the model's Top 3 candidate letters and confidence percentages at each step as it builds "the cat sleeps...".
+
+## Running this LLM with an agent
+
+Your terminal will show your MiniGPT streaming text and pausing mid-sentence to execute real Linux/file actions on your VM:
+
+## Pictorial view
+
+<img width="1397" height="764" alt="image" src="https://github.com/user-attachments/assets/3cd163b0-ec55-4456-b389-bbf3197dbbbe" />
+
+<img width="1358" height="831" alt="image" src="https://github.com/user-attachments/assets/8822e4ff-d8cf-4434-8425-9dd26598dd4f" />
+
