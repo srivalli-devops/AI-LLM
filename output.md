@@ -33,9 +33,8 @@ What New Insights You Will See When You Run This
 
 Your terminal will show your MiniGPT streaming text and pausing mid-sentence to execute real Linux/file actions on your VM:
 
+<img width="1358" height="831" alt="image" src="https://github.com/user-attachments/assets/8822e4ff-d8cf-4434-8425-9dd26598dd4f" />
+
 ## Pictorial view
 
 <img width="1397" height="764" alt="image" src="https://github.com/user-attachments/assets/3cd163b0-ec55-4456-b389-bbf3197dbbbe" />
-
-<img width="1358" height="831" alt="image" src="https://github.com/user-attachments/assets/8822e4ff-d8cf-4434-8425-9dd26598dd4f" />
-
