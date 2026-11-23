@@ -91,3 +91,10 @@ Download CPU-compatible PyTorch:
 **python -m pip install numpy matplotlib**
 
 <img width="1359" height="755" alt="image" src="https://github.com/user-attachments/assets/ba02b844-6ab0-44da-871e-cd607364cb20" />
+
+
+=================================
+
+To use onnxruntime
+
+<img width="1362" height="525" alt="image" src="https://github.com/user-attachments/assets/8ad5b37c-39d3-4024-a170-85c52974ea19" />
