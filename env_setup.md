@@ -98,3 +98,6 @@ Download CPU-compatible PyTorch:
 To use onnxruntime
 
 <img width="1362" height="525" alt="image" src="https://github.com/user-attachments/assets/8ad5b37c-39d3-4024-a170-85c52974ea19" />
+
+<img width="1347" height="468" alt="image" src="https://github.com/user-attachments/assets/ea2143db-d468-49ec-9789-750a5c310ded" />
+
